@@ -1,6 +1,7 @@
 # Project Management Board
 
-> Build a Dynamic Project Management Board with React and Suspense
+> Create a project management board PWA that uses React APIs such as
+  Suspense and the HTML5 Drag and Drop API
 
 In the project directory, you can run:
 
